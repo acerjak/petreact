@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/petreact/static/js/main.d766cc58.chunk.js",
+    "main.js.map": "/petreact/static/js/main.d766cc58.chunk.js.map",
+    "runtime-main.js": "/petreact/static/js/runtime-main.58f357e1.js",
+    "runtime-main.js.map": "/petreact/static/js/runtime-main.58f357e1.js.map",
+    "static/js/2.8301a7f6.chunk.js": "/petreact/static/js/2.8301a7f6.chunk.js",
+    "static/js/2.8301a7f6.chunk.js.map": "/petreact/static/js/2.8301a7f6.chunk.js.map",
+    "index.html": "/petreact/index.html",
+    "precache-manifest.5421f5d5a254cc7aae8c448aaa62b240.js": "/petreact/precache-manifest.5421f5d5a254cc7aae8c448aaa62b240.js",
+    "service-worker.js": "/petreact/service-worker.js",
+    "static/js/2.8301a7f6.chunk.js.LICENSE.txt": "/petreact/static/js/2.8301a7f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f357e1.js",
+    "static/js/2.8301a7f6.chunk.js",
+    "static/js/main.d766cc58.chunk.js"
+  ]
+}
